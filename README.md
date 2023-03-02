@@ -9,6 +9,8 @@
 ![wireframe 3](https://user-images.githubusercontent.com/126269525/222130602-0ccb3b95-3628-4541-91fa-e1b190803d27.png)
 
 ![wireframe 4](https://user-images.githubusercontent.com/126269525/222130723-5aacc25c-df0e-4922-9304-72b32faeab2f.png)
-  
-  
-  ##### i use vscode  [to create html page]and github to upload my project
+
+##### i use vscode  to create html page and github to upload my project
+
+
+##### in the 2.3.2023 i update name file and the nav bar  
